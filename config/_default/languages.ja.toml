@@ -11,16 +11,16 @@ title = "Blowfish"
   dateFormat = "2006年1月2日"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "有機合成化学とケモインフォマティクス研究者のブログ。分子設計、計算化学、最新の化学技術について発信しています。"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "大石 峻也 博士（理学）"
 #   email = "youremail@example.com"
-  image = "assets/profile.JPG"
+  image = "profile.JPG"
   imageQuality = 96
-  headline = "有機合成化学/ケモインフォマティクス"
-  bio = "編集中"
+  headline = "有機合成化学 × ケモインフォマティクス研究者"
+  bio = "博士号取得後、有機合成化学とケモインフォマティクスの交差領域で研究を続けています。分子設計最適化、計算化学シミュレーション、データドリブン化学など、化学と情報科学の融合領域に興味があります。最新の研究成果や技術トレンドをブログで紹介しています。"
   links = [
     { linkedin = "https://www.linkedin.com/in/shunya-oishi/" },
     { orcid = "https://orcid.org/0000-0002-7660-4551" },
