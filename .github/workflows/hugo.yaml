@@ -28,7 +28,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0 # 使用しているHugoのバージョンに近いものを指定（最新版でOK）
+      HUGO_VERSION: 'latest' # 使用しているHugoのバージョンに近いものを指定（最新版でOK）
     steps:
       - name: Checkout
         uses: actions/checkout@v4
