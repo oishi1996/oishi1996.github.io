@@ -2,12 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <copyright>© 2026 大石 峻也 博士（理学）</copyright>
+    <lastBuildDate>Sun, 17 May 2026 12:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Catalysis</title>
+      <link>http://localhost:1313/tags/catalysis/</link>
+      <pubDate>Sun, 17 May 2026 12:00:00 +0900</pubDate>
+      
+      <guid>http://localhost:1313/tags/catalysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Organo-Complex</title>
+      <link>http://localhost:1313/tags/organo-complex/</link>
+      <pubDate>Sun, 17 May 2026 12:00:00 +0900</pubDate>
+      
+      <guid>http://localhost:1313/tags/organo-complex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>X-Bond</title>
+      <link>http://localhost:1313/tags/x-bond/</link>
+      <pubDate>Sun, 17 May 2026 12:00:00 +0900</pubDate>
+      
+      <guid>http://localhost:1313/tags/x-bond/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

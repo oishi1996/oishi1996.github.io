@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-![有機錯体触媒の構造](./2022-12-image.png)
+![有機錯体触媒の構造](./featured.png)
 
 ### About
 
