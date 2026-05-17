@@ -7,7 +7,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "自己紹介"
+  name = "about"
   pageRef = "about"
   weight = 10
 #  weight = 10

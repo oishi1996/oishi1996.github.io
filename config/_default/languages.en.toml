@@ -1,4 +1,4 @@
-disabled = false
+disabled = true
 locale = "en"
 label = "English"
 weight = 1
@@ -15,8 +15,8 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Your name here"
-  email = "youremail@example.com"
+  name = "Shunya Oishi"
+  # email = "youremail@example.com"
   image = "assets/profile.JPG"
   imageQuality = 96
   headline = "I'm only human"
