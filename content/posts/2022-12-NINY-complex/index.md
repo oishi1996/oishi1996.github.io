@@ -17,7 +17,7 @@ draft: false
 
 ### Link
 
-- DOI: <10.1016/j.isci.2022.105220>
+- DOI: <https://doi.org/10.1016/j.isci.2022.105220>
 - <https://www.chem-station.com/blog/2022/11/mmtr.html>
 
 ---
